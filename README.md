@@ -1,3 +1,3 @@
 # pagina-grupo05
 
-Eu e Marcos fizemos nossas partes separadamente.
+João e Marcos fizeram suas partes separadamente.
